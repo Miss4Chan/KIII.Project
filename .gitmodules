@@ -1,3 +1,9 @@
 [submodule "DeclarativeFiles"]
 	path = DeclarativeFiles
 	url = https://github.com/Miss4Chan/KIII.Project.DeclarativeFiles
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Miss4Chan/KIII.Project.Backend
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Miss4Chan/KIII.Project.Frontend
